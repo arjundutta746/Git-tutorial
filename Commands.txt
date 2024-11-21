@@ -1,0 +1,2 @@
+git status -> tells the status, the untracked files till now
+git add <filename> -> stage the file, photo is taken
